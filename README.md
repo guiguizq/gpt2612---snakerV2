@@ -20,13 +20,3 @@ Um jogo da cobrinha feito com **HTML, CSS e JavaScript puro**, com visual modern
 - Pausa manual e automática ao trocar de aba.
 - Sem bibliotecas ou dependências externas.
 
-## 🚀 Publicar no GitHub Pages
-
-1. Crie um repositório no GitHub (por exemplo, `snake-arcade`).
-2. Envie `index.html` e `README.md` para a raiz do repositório.
-3. No repositório, acesse **Settings → Pages**.
-4. Em **Build and deployment**, escolha **Deploy from a branch**.
-5. Selecione a branch `main` e a pasta `/ (root)`, depois clique em **Save**.
-6. Aguarde a publicação indicada pelo GitHub Pages. O endereço ficará no formato `https://SEU-USUARIO.github.io/snake-arcade/`.
-
-> O arquivo principal precisa se chamar exatamente `index.html` e ficar na raiz do repositório para essa configuração.
